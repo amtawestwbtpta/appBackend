@@ -27,8 +27,6 @@ let userSchema = new mongoose.Schema(
     empid: String,
     pan: String,
     teacher: String,
-    photoName: String,
-    url: String,
     // aadhaar: Number,  //Removed For Firebase
     loggedin: String,
     dpscst: String,
