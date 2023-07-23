@@ -426,6 +426,8 @@ const userAdd = async (req, res) => {
     sis,
     circle,
     empid,
+    photoName,
+    url,
     pan,
     teacher,
     // aadhaar,  //Removed For Firebase
@@ -455,6 +457,8 @@ const userAdd = async (req, res) => {
     sis,
     circle,
     empid,
+    photoName,
+    url,
     pan,
     teacher,
     // aadhaar,  //Removed For Firebase
